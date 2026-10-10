@@ -1,16 +1,18 @@
 import React from 'react';
-import Layout from './Components/Layouts/Layout';
-// Aquí importarás tu ItemListContainer cuando lo creemos
+import Header from './Header'; 
+import Footer from './Footer'; 
 
-function App() {
+const Layout = ({ children }) => {
   return (
-    <Layout>
-      {/* <ItemListContainer /> */}
-      <h2 style={{ textAlign: 'center', fontFamily: 'Arial, sans-serif', color: '#333' }}>
-        ¡Bienvenido a la cocina de la Nona!
-      </h2>
-    </Layout>
+    <div style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
+      <Header />
+      <main style={{ flex: 1, padding: '20px', backgroundColor: '#fafafa' }}>
+        {children}
+      </main>
+      <Footer />
+    </div>
   );
-}
+};
 
-export default App;
+export default Layout;
+

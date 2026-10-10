@@ -2,7 +2,7 @@ import React from "react";
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
 import Layout from "./Components/Layouts/Layout";
-import ItemListContainer from "./Components/Products/ItemListContainer";
+import ItemListContainer from "./Components/ItemListContainer";
 
 function App() {
   return (
