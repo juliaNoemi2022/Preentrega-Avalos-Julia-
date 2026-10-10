@@ -10,7 +10,7 @@
     "id": 2,
     "Nombre": "Vigilantes de grasa",
     "Precio": 6000,
-    "descripcion": "Finitas, crocantes y con el punto justo de sal",
+    "descripcion": "Finitos, crocantes y con el punto justo de sal",
     "imagen": "/vigilantes.webp"
   },
   {
@@ -33,7 +33,7 @@
     "Nombre": "Alfajores de Maicena x6",
     "Precio": 4500,
     "descripcion": "Docena de alfajores súper suaves que se desarman en la boca, con mucho dulce de leche y decorados con coco.",
-    "imagen": "/alfajores_maicena.webp"
+    "imagen": "/alfajores-maicena.webp"
   },
   {
     "id": 6,
@@ -44,14 +44,15 @@
   },
   {
     "id": 7,
-    "Nombre": "Chocotorta Familiar",
+    "Nombre": "Chocotorta",
     "Precio": 14000,
     "descripcion": "El clásico argentino infaltable: capas de galletitas de chocolate humedecidas, crema de dulce de leche y queso crema.",
-    "imagen": "/chocotorta.webp"
+    "imagen": "/Chocotorta.jpg"
   },
   {
     "id": 8,
-    "Nombre// Un clásico de las panaderías de barrio: masa suave, esponjosa y húmeda, cubierta con abundante azúcar granulada.",
-    "imagen": "/pan_dulce.webp"
+    "Nombre": "Pan de chocolate",
+    "Descripción": "Un clásico de las panaderías de barrio: masa suave, esponjosa y húmeda, rellena de chocolate.",
+    "imagen": "/pan_chocolate.jpg"
   }
 ]

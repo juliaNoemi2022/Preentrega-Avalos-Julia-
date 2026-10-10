@@ -1,0 +1,25 @@
+.navContainer {
+  width: 100%;
+  max-width: 600px;
+}
+
+.navList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navLink {
+  text-decoration: none;
+  color: #5c3d2e;
+  font-weight: bold;
+  font-size: 1.1rem;
+  transition: color 0.3s ease;
+  padding: 5px 10px;
+}
+
+.navLink:hover {
+  color: #e2a05d;
+}

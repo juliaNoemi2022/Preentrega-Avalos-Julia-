@@ -1,0 +1,26 @@
+.container {
+  width: 100%;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+  background-color: #fcf8f2; 
+  padding: 15px 0;
+  border-bottom: 1px solid #e6dfd5;
+}
+
+.logo {
+  
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.logo img {
+  width: 75px; 
+  height: auto;
+  display: block;
+}
