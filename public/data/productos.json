@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "Nombre": "Vigilantes de Manteca",
+    "Precio": 6500,
+    "descripcion": "Clásicas facturas argentinas horneadas artesanalmente, decoradas con crema pastelera o dulce de membrillo.",
+    "imagen": "/vigilantes.webp"
+  },
+  {
+    "id": 2,
+    "Nombre": "Vigilantes de grasa",
+    "Precio": 6000,
+    "descripcion": "Finitas, crocantes y con el punto justo de sal",
+    "imagen": "/vigilantes.webp"
+  },
+  {
+    "id": 3,
+    "Nombre": "Torta Rogel Mediana",
+    "Precio": 18000,
+    "descripcion": "Capas de masa súper crocante intercaladas con abundante dulce de leche repostero y cobertura de merengue italiano.",
+    "imagen": "/rogel.webp"
+
+  },
+  {
+    "id": 4,
+    "Nombre": "Postre Balcarce",
+    "Precio": 15500,
+    "descripcion": "Esponjoso pionono relleno de crema batida, castañas en almíbar, dulce de leche, merenguitos y cubierta de coco rallado.",
+    "imagen": "/Postre Balcarce.jpeg"
+  },
+  {
+    "id": 5,
+    "Nombre": "Alfajores de Maicena x6",
+    "Precio": 4500,
+    "descripcion": "Docena de alfajores súper suaves que se desarman en la boca, con mucho dulce de leche y decorados con coco.",
+    "imagen": "/alfajores_maicena.webp"
+  },
+  {
+    "id": 6,
+    "Nombre": "Pastafrola de Membrillo",
+    "Precio": 9500,
+    "descripcion": "Masa casera dulce de vainilla, rellena con el mejor dulce de membrillo artesanal y el clásico enrejado superior.",
+    "imagen": "/pastafrola.webp"
+  },
+  {
+    "id": 7,
+    "Nombre": "Chocotorta Familiar",
+    "Precio": 14000,
+    "descripcion": "El clásico argentino infaltable: capas de galletitas de chocolate humedecidas, crema de dulce de leche y queso crema.",
+    "imagen": "/chocotorta.webp"
+  },
+  {
+    "id": 8,
+    "Nombre// Un clásico de las panaderías de barrio: masa suave, esponjosa y húmeda, cubierta con abundante azúcar granulada.",
+    "imagen": "/pan_dulce.webp"
+  }
+]
