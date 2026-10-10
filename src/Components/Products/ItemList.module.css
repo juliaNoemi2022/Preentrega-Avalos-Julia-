@@ -1,0 +1,10 @@
+.item_list {
+  display: flex;
+  gap: 25px; /* Aumentamos levemente a 25px para darle más aire a las tortas y facturas */
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  padding: 30px;
+  width: 80%;
+  background-color: #fafafa; /* Fondo sutilmente gris/crema para resaltar las tarjetas blancas */
+}
